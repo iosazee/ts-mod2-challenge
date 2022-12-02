@@ -141,18 +141,18 @@ li  a {
   grid-template-columns: 1fr 1fr;
   grid-template-areas: 
     "p2 p3"
-    "p4 p3"
+    "p2 p4"
     "p5 p6";
 }
 
 #portfolio2 {
   grid-area: p2;
-  background-image: url("../images/02-portfolio-2.jpg");
+  background-image: url("../images/02-portfolio-1.jpg");
 }
 
 #portfolio3 {
   grid-area: p3;
-  background-image: url("../images/02-portfolio-1.jpg");
+  background-image: url("../images/02-portfolio-2.jpg");
 }
 
 #portfolio4 {
