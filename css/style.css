@@ -66,6 +66,7 @@ li  a {
   background-size: cover;
   position: relative;
   height: 300px;
+  border: 12px solid var(--secondary-color);
 }
 
 .hero-banner h2 {
