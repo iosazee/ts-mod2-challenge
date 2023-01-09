@@ -148,7 +148,7 @@ li  a {
 
 #portfolio2 {
   grid-area: p2;
-  background-image: url("../images/02-portfolio-1.jpg");
+  background-image: url("/assets/images/02-portfolio-1.jpg");
 }
 
 #portfolio3 {
@@ -213,7 +213,7 @@ li  a {
 }
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 968px) {
   body {
     background-color: gold;
   }
@@ -231,6 +231,7 @@ li  a {
      "p5"
      "p6";
   }
+
 
 }
 
